@@ -68,7 +68,7 @@ export default function Contact() {
 
   return (
     //demo line for ci-cd
-    <div className="p-7 max-w-md mx-auto">
+    <div className="p-3 max-w-md mx-auto">
       <h2 className="text-xl font-bold mb-4">Contact Us</h2>
       <form onSubmit={handleSubmit} className="space-y-3">
         <input
